@@ -1,10 +1,16 @@
-# Refactoring an Existing Code
+# Horiseon
 
-This week you'll begin with existing code that you need to refactor and to make it more accessible.
+This site provides an education platform to teach business owners about using the internet as a tool to enhanse their business.
 
-(recall that to refactor code is to improve it without changing what it does) 
+## 🧐 Table of Contents
 
-# instructions
+- Installation Steps
+
+- User Story
+
+- Acceptance Criteria
+
+## 🛠️ Installation Steps
 
 Follow these steps to complete the challenge:
 
@@ -35,11 +41,3 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-
-# Submitting the URL
-
-You are required to submit BOTH of the following for review:
-
-The URL of the deployed application.
-
-The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
